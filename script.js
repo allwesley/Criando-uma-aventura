@@ -1,3 +1,4 @@
+/*Wesley da Silva Almeida 3D 14/08/24*/
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
